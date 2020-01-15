@@ -1,5 +1,5 @@
-# Montclair
+# Go Akron
 
-This is a simple project to show a live view of all the buses in the Birmigham, AL Transit Systems.
+Real Time Tracking of the Buses for Akron, OH
 
-https://montclair.line72.net/
+https://akron.gotransitapp.com
